@@ -1,5 +1,5 @@
 <p align="center">
-"You don't learn C# to have fun, you learn it to make money... to use that money to spend time having fun learning C#... to make more money..." ~[Programmers are also human](https://www.youtube.com/watch?v=bXzTXD_OJo0&t=324s&ab_channel=Programmersarealsohuman) 2022 A.D.
+"You don't learn C# to have fun, you learn it to make money... to use that money to spend time having fun learning C#... to make more money..." ~ <a href="https://www.youtube.com/watch?v=bXzTXD_OJo0&ab_channel=Programmersarealsohuman">Programmers are also human</a> 2022 A.D.
 </p>
 
 <h3>Hello there :smiley:</h3>
