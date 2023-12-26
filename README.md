@@ -6,5 +6,4 @@
 
 My name is Arthur and I am a .NET developer at Comarch
 
-![stats](https://github-readme-stats-3rf6ussmh-arturmareknowak.vercel.app/api?username=ArturMarekNowak) 
-![languages](https://github-readme-stats-3rf6ussmh-arturmareknowak.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze)
+![stats](https://github-readme-stats-zeta-smoky.vercel.app/api?username=ArturMarekNowak)![languages](https://github-readme-stats-zeta-smoky.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze)
