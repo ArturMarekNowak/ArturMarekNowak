@@ -1,9 +1,24 @@
-<p align="center">
-"You don't learn C# to have fun, you learn it to make money... to use that money to spend time having fun learning C#... to make more money..." ~ <a href="https://www.youtube.com/watch?v=bXzTXD_OJo0&ab_channel=Programmersarealsohuman">Programmers are also human</a> 2022 A.D.
-</p>
+## Hello there :smiley:
 
-<h3>Hello there :smiley:</h3>
+- 💻 .NET developer
+- 🌱 I’m making microservices
+- 📫 I am on [Stackoverflow](https://stackoverflow.com/users/15270760/artur)
 
-My name is Arthur and I am a .NET developer at Comarch
+### Languages and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dotnet logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgres logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="52" alt="mssql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="52" alt="k8s logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="52" alt="helm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" width="52" alt="kafka logo" />
+</div>
 
-![stats](https://github-readme-stats-zeta-smoky.vercel.app/api?username=ArturMarekNowak)![languages](https://github-readme-stats-zeta-smoky.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze)
+### Github stats
+
+<div align="left">
+  <img src="https://github-readme-stats-zeta-smoky.vercel.app/api?username=ArturMarekNowak" alt="github stats" />
+  <img src="https://github-readme-stats-zeta-smoky.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze" alt="languages" />
+</div>
