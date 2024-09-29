@@ -1,8 +1,8 @@
-## Hello there :smiley:
+## Hello there!
 
 - 💻 .NET developer
 - 🌱 I’m making microservices
-- 📫 I am on [Stackoverflow](https://stackoverflow.com/users/15270760/artur)
+- 📫 I am on [LinkedIn](https://www.linkedin.com/in/artur-marek-nowak/) and [Stackoverflow](https://stackoverflow.com/users/15270760/artur)
 
 ### Languages and Tools
 <div align="left">
