@@ -25,5 +25,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats-zeta-smoky.vercel.app/api?username=ArturMarekNowak" alt="github stats" />
-  <img src="https://github-readme-stats-zeta-smoky.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze" alt="languages" />
+  <img src="https://github-readme-stats-zeta-smoky.vercel.app/api/top-langs/?username=ArturMarekNowak&layout=compact&langs_count=8&hide=Assembly,html,rich%20text%20format,makefile&exclude_repo=MessengerViaTcpOnStm32F769I,Maze" alt="languages" height="195"/>
 </div>
